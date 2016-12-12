@@ -6,3 +6,5 @@ build
 .idea
 captures
 .externalNativeBuild
+qreader
+qrcodeReaderSample
