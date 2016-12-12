@@ -1,1 +1,1 @@
-include ':qrcodeDemo'
+include ':qrcodeDemo', ':qreader', ':qrcodeReaderSample'
